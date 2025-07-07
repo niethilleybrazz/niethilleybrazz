@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://i.pinimg.com/736x/c4/ca/09/c4ca09a627d44d73b4833581f42152d1.jpg"  />
+
 
 ###
 
