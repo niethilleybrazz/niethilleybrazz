@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que uso e estudo</h2>
+<h2 align="left">Tecnologias que uso ou estudo</h2>
 
 ###
 
