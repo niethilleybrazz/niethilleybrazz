@@ -26,12 +26,8 @@
 
 ###
 
-
-
-###
-
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/niethilleybrazz/niethilleybrazz/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 align="left"></h2>
+
