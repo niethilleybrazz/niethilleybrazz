@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 💻 Atualmente cursando Sistemas de Informação<br>• 🚀Estudando para me tornar uma desenvolvedora full-stack<br>• 🎮 Jogo no tempo livre<br>• 🫰 Pronomes : ela/dela</p>
+<p align="left">• 💻 Atualmente cursando Sistemas de Informação<br>• 🚀Estudando para me tornar uma desenvolvedora full-stack<br>• 🎮 Jogo no tempo livre<br>
 
 ###
 
