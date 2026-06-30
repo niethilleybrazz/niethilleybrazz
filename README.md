@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 💻 Atualmente cursando Sistemas de Informação<br>• 🚀Estudando para me tornar uma desenvolvedora full-stack<br>• 🎮 Jogo no tempo livre<br>
+<p align="left">• 💻 Atualmente cursando Sistemas de Informação<br>• 🚀Desenvolvedora Full-stack<br>• 🎮 Jogo no tempo livre<br>
 
 ###
 
