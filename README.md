@@ -8,11 +8,10 @@
 
 <p aling="left">Estudante de Sistemas de Informação apaixonada por tecnologia (e café ☕) desde sempre. Hoje transformo essa paixão em código limpo e interfaces bem pensadas.<br>
 
-<p align="left">
-  • 🎓 Cursando Sistemas de Informação<br>
-  • 💻 Foco em Front-End, evoluindo em Back-End<br>
-  • 🚀 Buscando oportunidade de estágio em desenvolvimento<br>
-  • 🎮 Jogo no tempo livre<br>
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;• 🎓 Cursando Sistemas de Informação<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;• 💻 Foco em Front-End, evoluindo em Back-End<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;• 🚀 Buscando oportunidade de estágio em desenvolvimento<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;• 🎮 Jogo no tempo livre<br>
 
 ###
 
@@ -38,11 +37,11 @@
 
 ## Projetos em destaque
 
-🔹 **[Calculadora de IMC](https://github.com/niethilleybrazz/imc-calculator)** — calcula o Índice de Massa Corporal com validação de dados e classificação automática.
+  &nbsp;&nbsp;&nbsp;&nbsp;• **[Calculadora de IMC](https://github.com/niethilleybrazz/imc-calculator)** — calcula o Índice de Massa Corporal com validação de dados e classificação automática.
  
-🔹 **[Gerador de QR Code](https://github.com/niethilleybrazz/qrcode-generator)** — converte texto ou links em QR codes gerados dinamicamente.
+  &nbsp;&nbsp;&nbsp;&nbsp;• **[Gerador de QR Code](https://github.com/niethilleybrazz/qrcode-generator)** — converte texto ou links em QR codes gerados dinamicamente.
  
-🔹 **[Landing Page — Smart Cents](https://github.com/niethilleybrazz/landingpage-smartcents)** — página institucional responsiva com foco em conversão.
+  &nbsp;&nbsp;&nbsp;&nbsp;• **[Landing Page — Smart Cents](https://github.com/niethilleybrazz/landingpage-smartcents)** — página institucional responsiva com foco em conversão.
 
 ## Vamos conversar?
  
