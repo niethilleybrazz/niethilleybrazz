@@ -37,7 +37,7 @@
 
 ## Projetos em destaque
 
-  &nbsp;&nbsp;&nbsp;&nbsp;• **[Calculadora de IMC](https://github.com/niethilleybrazz/imc-calculator)** — calcula o Índice de Massa Corporal com validação de dados e classificação automática.
+  &nbsp;&nbsp;&nbsp;&nbsp;• **[Spendly](https://github.com/niethilleybrazz/spendly)** — gerenciador de finanças com implementações dinâmicas.
  
   &nbsp;&nbsp;&nbsp;&nbsp;• **[Gerador de QR Code](https://github.com/niethilleybrazz/qrcode-generator)** — converte texto ou links em QR codes gerados dinamicamente.
  
