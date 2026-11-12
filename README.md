@@ -8,10 +8,9 @@
 
 <p aling="left">Estudante de Sistemas de Informação apaixonada por tecnologia (e café ☕) desde sempre. Hoje transformo essa paixão em código limpo e interfaces bem pensadas.<br>
 
-<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;• 🎓 Cursando Sistemas de Informação<br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;• 💻 Foco em Front-End, evoluindo em Back-End<br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;• 🚀 Buscando oportunidade de estágio em desenvolvimento<br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;• 🎮 Jogo no tempo livre<br>
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;• 🎓 Cursando Sistemas de Informação(4°)<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;•  Foco em Desenvolvimento Full-stack<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;•  Buscando oportunidade de estágio em desenvolvimento<br> 
 
 ###
 
